@@ -1,4 +1,4 @@
-WP-photo-zoom-and-rotation
-==========================
+WP8 image zoom in /out , double tap zoom , roration
+===
 
-Image zoom in / out , double tap zoom  and rotation
+Windows Phone 8  
