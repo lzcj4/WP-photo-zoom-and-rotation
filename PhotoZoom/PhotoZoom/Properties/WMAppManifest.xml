@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{d80ef11e-0c2d-4cac-af63-17e95db27027}" Title="ImageZoom" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="ImageZoom author" Description="Sample description" Publisher="ImageZoom" PublisherID="{81551d3d-22ed-4124-993b-1c69d78a8055}">
+  <App xmlns="" ProductID="{6bd30f7f-eadc-4bd6-bf2c-5ac34ce34266}" Title="PhotoZoom" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="PhotoZoom author" Description="Sample description" Publisher="PhotoZoom" PublisherID="{dc22ec19-ca2a-4e99-8dd2-5c23566084b3}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
@@ -15,12 +15,12 @@
       <DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>
     </Tasks>
     <Tokens>
-      <PrimaryToken TokenID="ImageZoomToken" TaskName="_default">
+      <PrimaryToken TokenID="PhotoZoomToken" TaskName="_default">
         <TemplateFlip>
           <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
-          <Title>ImageZoom</Title>
+          <Title>PhotoZoom</Title>
           <BackContent></BackContent>
           <BackBackgroundImageURI></BackBackgroundImageURI>
           <BackTitle></BackTitle>

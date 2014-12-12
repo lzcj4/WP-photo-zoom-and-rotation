@@ -6,11 +6,11 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ImageZoom")]
+[assembly: AssemblyTitle("PhotoZoom")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ImageZoom")]
+[assembly: AssemblyProduct("PhotoZoom")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -21,7 +21,7 @@ using System.Resources;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7d865044-2d35-418d-b167-c5d116c15075")]
+[assembly: Guid("9cd3b77a-da83-4dab-96ec-dc8a9f840ef2")]
 
 // Version information for an assembly consists of the following four values:
 //

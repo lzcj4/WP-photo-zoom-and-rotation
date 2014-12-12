@@ -1,6 +1,6 @@
-﻿using ImageZoom.Resources;
+﻿using PhotoZoom.Resources;
 
-namespace ImageZoom
+namespace PhotoZoom
 {
     /// <summary>
     /// Provides access to string resources.

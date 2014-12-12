@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using ImageZoom.Resources;
+using PhotoZoom.Resources;
 
-namespace ImageZoom
+namespace PhotoZoom
 {
     public partial class App : Application
     {
